@@ -25,3 +25,41 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
+
+body {
+    background-image: url("https://c.static-nike.com/a/images/w_1920,c_limit/mdbgldn6yg1gg88jomci/image.jpg");
+    background-size: cover;
+}
+
+p {
+    color:brown;
+    text-align: center;
+    text-decoration: line-through;
+    font-size: 2em;
+    text-shadow: 2px 2px 5px;
+}
+
+h1 {
+    color: red;
+}
+
+img {
+    display: block;
+    margin: 20px;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+#row1 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: bisque;
+}
+
+.info {
+    background-color: black;
+    box-shadow: 5px 5px white;
+}
+
+#row1 {
+    border-style: dotted;
+}
